@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*HI I AM VISHNU*
+
+**I AM A STUDENT**
+
+_I LOVE **PROGRAMMING**_
